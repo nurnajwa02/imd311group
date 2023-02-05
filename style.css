@@ -11,6 +11,13 @@ body
     background-size: cover;
     background-position: center;
 }
+
+nav{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
 .navbar ul
  {
     list-style: none;

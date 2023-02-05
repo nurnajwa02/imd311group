@@ -12,7 +12,7 @@ body
     background-position: center;
 }
 
-nav{
+.nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
